@@ -1,0 +1,29 @@
+test 3 Message: element click intercepted: Element <i class="bxIcon48 bxIcon48--close sky-modal__title-close-icon" data-testid="close-button"></i> is not clickable at point (970, 204). Other element would receive the click: <div class="special-category-modal__content">...</div>
+  (Session info: chrome=98.0.4758.109)
+Stacktrace:
+0   chromedriver                        0x0000000107d94ee9 chromedriver + 5013225
+1   chromedriver                        0x0000000107d201d3 chromedriver + 4534739
+2   chromedriver                        0x00000001078f6a68 chromedriver + 170600
+3   chromedriver                        0x0000000107932535 chromedriver + 415029
+4   chromedriver                        0x000000010793018f chromedriver + 405903
+5   chromedriver                        0x000000010792d940 chromedriver + 395584
+6   chromedriver                        0x000000010792c61c chromedriver + 390684
+7   chromedriver                        0x0000000107920359 chromedriver + 340825
+8   chromedriver                        0x00000001079487e2 chromedriver + 505826
+9   chromedriver                        0x000000010791fbf5 chromedriver + 338933
+10  chromedriver                        0x00000001079488ee chromedriver + 506094
+11  chromedriver                        0x000000010795b074 chromedriver + 581748
+12  chromedriver                        0x00000001079486d3 chromedriver + 505555
+13  chromedriver                        0x000000010791e76e chromedriver + 333678
+14  chromedriver                        0x000000010791f745 chromedriver + 337733
+15  chromedriver                        0x0000000107d50efe chromedriver + 4734718
+16  chromedriver                        0x0000000107d6aa19 chromedriver + 4839961
+17  chromedriver                        0x0000000107d701c8 chromedriver + 4862408
+18  chromedriver                        0x0000000107d6b3aa chromedriver + 4842410
+19  chromedriver                        0x0000000107d45a01 chromedriver + 4688385
+20  chromedriver                        0x0000000107d86538 chromedriver + 4953400
+21  chromedriver                        0x0000000107d866c1 chromedriver + 4953793
+22  chromedriver                        0x0000000107d9c225 chromedriver + 5042725
+23  libsystem_pthread.dylib             0x00007fff203348fc _pthread_start + 224
+24  libsystem_pthread.dylib             0x00007fff20330443 thread_start + 15
+
